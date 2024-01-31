@@ -1,3 +1,5 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Arrays;
 //Our cheaty array helper file <3
 public class Main {
@@ -33,6 +35,10 @@ public class Main {
             System.out.println("I printed once!");
         }
 
-        //P5: 
+        //P5: Take a string from the user and print them the reverse!
+        System.out.println("Problem 5");
+        //hint
+        String reverse = "";
+
     }
 }
