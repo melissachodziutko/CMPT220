@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Arrays;
 //Our cheaty array helper file <3
 public class Main {
@@ -10,7 +8,7 @@ public class Main {
         Arrays.?(sortMe);
         //And what method is missing here to print out that array?
         System.out.println(?);
-
+        //After this, you cannot use the array helper file, gotta go back to the old ways
 
         //another one!
         int addMe[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
