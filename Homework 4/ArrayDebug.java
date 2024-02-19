@@ -2,13 +2,24 @@ import java.util.Arrays;
 //Our cheaty array helper file <3
 public class Main {
     public static void main(String[] args) {
-        //Here's our first array!
+
+        //Create me an array named "nameArray" that is a string and has 4 values in it, give me 4 names of people or animals you care about
+
+        //Create me an array without any values, but it's an integer array named "numArray"
+
+        //Create me an int array named "newArray" and set it to have 20 null spaces
+
+
+
+
+        
+        //Here's our first practice array!
         String[] sortMe = {"Apple","Kiwi","Orange","Banana","Watermelon","Strawberry"};
        //What method is missing here to actually sort our array?
         Arrays.?(sortMe);
         //And what method is missing here to print out that array?
         System.out.println(?);
-        //After this, you cannot use the array helper file, gotta go back to the old ways
+        //After this, you cannot use the array helper file, gotta go back to the old ways!!
 
         //another one!
         int addMe[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
