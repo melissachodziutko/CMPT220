@@ -1,7 +1,7 @@
 /*
 Remember that stacks/queues/linkedlists all work super similarly to arraylists, so i bet you $10 you could reference earlier HW if you get stuck....
 
-1. Take the stack I created and fine the maximum and minimum value
+1. Take the stack I created and find the maximum and minimum value
 2. Find out how many elements were in the stack
 
 3. Find the middle value of the linkedlist I created
