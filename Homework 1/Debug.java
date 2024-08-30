@@ -15,10 +15,16 @@ public class Main {
         System.out.println("Hello, " + name + "! ");
 
 
+
+
+
         //finish this one for me by receiving and printing the user's age back to them
         System.out.println("How old are you? ");
 
 
+
+
+        
         //can you do some math for me? take these variable and print out the sum of them!
         int num1 = 10;
         int num2 = 37;
