@@ -13,11 +13,6 @@ public class Main {
         String name = sc.nextLine();
         //third: we print it back out!
         System.out.println("Hello, " + name + "! ");
-
-
-
-
-
         
 
         //finish this one for me by receiving and printing the user's age back to them
