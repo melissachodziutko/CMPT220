@@ -1,5 +1,5 @@
 
-public class Main {
+public class Debug {
     public static void main(String[] args) {
 
         //for this section: are these all printing the best option? If they aren't, fix it!
