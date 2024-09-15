@@ -5,7 +5,6 @@ public class Debug {
     public static void main(String[] args) {
         //I've already set up a scanner with the name 'sc' for you!
         Scanner sc = new Scanner(System.in);
-
         //here's a good working example for you to reference!
         //first: we ask our user for our prompt
         System.out.println("What is your name? ");
@@ -13,7 +12,7 @@ public class Debug {
         String name = sc.nextLine();
         //third: we print it back out!
         System.out.println("Hello, " + name + "! ");
-
+        
 
 
 
