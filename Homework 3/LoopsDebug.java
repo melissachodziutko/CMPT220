@@ -12,7 +12,7 @@ public class Main {
         //P2: Ask the user for a number. Create a loop to find the factorial of it
         //(factorial = X!, X being the user input, Factorials are every digit before X multiplied together)
         System.out.println("Problem 2");
-        System.out.println("Enter a number and I will tell you the fatorial: ");
+        System.out.println("Enter a number and I will tell you the factorial: ");
         //here's a hint
         for (int i = 0; i < ?; i++){
 
